@@ -4,6 +4,8 @@ Google made a leap forward by executing JavaScript when crawling the internet. H
 
 This specification shall allow implementors of crawlers to follow Google's lead and provide a contract for framework and website developers to rely on.
 
+*Read more about the motivation in this [blog post](http://www.analog-ni.co/precomposing-a-spa-may-become-the-holy-grail-to-seo).*
+
 ---
 
 Go to the [current draft of the specification](specification.md).

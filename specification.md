@@ -22,8 +22,8 @@ TODO
 ## 2. The Contract
 
 1. A website shall indicate to a crawler that it should execute JavaScript according to this contract by including `<meta name="js-enabled-crawling" content="!">` in the HTML page.
-2. If the website also includes `<meta name="fragment" content="!">` the crawler should ignore this tag if it supports this contract.
-3. The crawler shall execute JavaScript to the following extend:
+  1. If the website also includes `<meta name="fragment" content="!">` the crawler should ignore this tag if it supports this contract.
+2. The crawler shall execute JavaScript to the following extend:
   1. It shall load and execute all JavaScript scripts referenced by or inlined through `<script>` tags.
   2. It shall wait until all registered handlers for the `window.load` event are executed before processing the page content. [3.1]
   3. It may block all AJAX calls.
