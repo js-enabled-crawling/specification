@@ -17,6 +17,7 @@ Go to the [current draft of the specification](specification.md).
 You may:
 
 - Star this project to add your voice to this community effort,
+- [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/js-enabled-crawling/specification?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - Open an issue to give feedback and discuss certain aspects of the specification, and
 - Create a pull request based on an issue of which the discussion came to a resolution.
 
